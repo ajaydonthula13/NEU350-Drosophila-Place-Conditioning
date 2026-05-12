@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
